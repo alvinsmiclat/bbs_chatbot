@@ -1,0 +1,14 @@
+{
+  "name": "school-counselor-api",
+  "version": "1.0.0",
+  "description": "Backend API for School Counselor Chatbot",
+  "main": "api/chat.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
+}
